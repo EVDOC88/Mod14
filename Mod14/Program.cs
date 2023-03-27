@@ -44,8 +44,7 @@
 
                     Console.WriteLine();
                 }
-            }
-           
+            }          
         }
     }
     public class Contact // модель класса
